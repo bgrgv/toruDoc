@@ -68,7 +68,7 @@ void loop() {
   BPDia = random(80, 90);
   
   //Temp
-  Temp = random(95, 28);
+  Temp = random(95, 98);
 
 
   
