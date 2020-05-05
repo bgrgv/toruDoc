@@ -22,5 +22,6 @@ The Program is written in C++.
 - Download the Code from the link below.   
 [Download Code](NodeMCU/NodeMCU.ino)
 - Add the Connection SSID and Password you'd want the device to connect to.
+- Change the UID of the device as currently it is hardcoded to "a".
 - Upload the Code to a NodeMCU Board.
 - No need to attach any sensor as Data is being emulated automatically and will be POSTed as soon as Connection is established.
