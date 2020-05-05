@@ -2,6 +2,33 @@
  
 Deploy to a firebase project by using 'firebase deploy --only functions'
 
+## Web Application
+
+### `npm install`
+Install all the package dependencies.<br/>
+
+In the project directory, you can run:
+
+### `npm start`
+
+Runs the app in the development mode.<br />
+Open (http://localhost:3000) to view it in the browser.
+
+The page will reload if you make edits.<br />
+You will also see any lint errors in the console.
+
+### `npm test`
+
+Launches the test runner in the interactive watch mode.
+
+### `npm run build`
+
+Builds the app for production to the `build` folder.<br />
+It correctly bundles React in production mode and optimizes the build for the best performance.
+
+The build is minified and the filenames include the hashes.<br />
+Your app is ready to be deployed!
+
 ## Hardware Module
 
 The Hardware Setup of the project is based on a NodeMCU Board, which is nothing but an ESP8266 WiFi Module. The Module is configured to measure 4 Vital Parameters inclusive of:
@@ -25,3 +52,9 @@ The Program is written in C++.
 - Change the UID of the device as currently it is hardcoded to "a".
 - Upload the Code to a NodeMCU Board.
 - No need to attach any sensor as Data is being emulated automatically and will be POSTed as soon as Connection is established.
+
+## Collaborators
+- [Blessin G Varghese](https://www.github.com/bgrgv)
+- [T R Rohith](https://www.github.com/trrohith)
+- [Arpit Sharma](https://www.github.com/arpitsharma2800)
+- [Aaishika S Bhattacharya](https://www.github.com/aaishikasb)
