@@ -1,6 +1,15 @@
 # DSCSolutions
  
+![Issues](https://img.shields.io/github/issues/bgrgv/toruDoc)
+![Stars](https://img.shields.io/github/stars/bgrgv/toruDoc)
+![License](https://img.shields.io/github/license/bgrgv/toruDoc)
+![Collaborators](https://img.shields.io/badge/collaborators-4-red)
+![Size](https://img.shields.io/github/repo-size/bgrgv/toruDoc)
+
 Deploy to a firebase project by using 'firebase deploy --only functions'
+
+## Video
+[![YouTube Video](https://s.studiobinder.com/wp-content/uploads/2018/10/How-to-Make-Money-on-YouTube-YouTube-Monetization-Header-Image-StudioBinder11.jpg)](https://www.youtube.com/watch?v=TjjM3BjHxHo)
 
 ## Web Application
 
